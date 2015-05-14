@@ -23,7 +23,7 @@ install_requires = [
 
 setup(
     name='gargoyle',
-    version='0.11.0.sm0',
+    version='0.11.0.sm1',
     author='DISQUS',
     author_email='opensource@disqus.com',
     url='https://github.com/disqus/gargoyle',
